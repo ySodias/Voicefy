@@ -1,0 +1,7 @@
+/Lib/*
+/.idea/*
+.env
+.cache-zdggx8w9d4ee5c34s85df17am
+/Scripts/*
+/__pycache__/*
+pyvenv.cfg
